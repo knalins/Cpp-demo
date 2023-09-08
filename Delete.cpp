@@ -9,4 +9,5 @@ int main(){
     v.push_back(9);
     int c=*min_element(v.begin(),v.end());
     cout<<c;
+    //Main hoon do
 }
